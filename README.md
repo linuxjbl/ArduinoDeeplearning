@@ -2,4 +2,5 @@
 from Mint Xfce
 =======
 
-Token : 
+SSH added
+
